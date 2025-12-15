@@ -1,0 +1,2 @@
+scalarlm==0.992
+PyYAML==6.0.3
